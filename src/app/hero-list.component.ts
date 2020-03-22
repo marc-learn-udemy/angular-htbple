@@ -21,8 +21,6 @@ export class HeroListComponent implements OnInit {
   selectHero(hero: Hero) { this.selectedHero = hero; }
 }
 
-// small change
-
 /*
 Copyright Google LLC. All Rights Reserved.
 Use of this source code is governed by an MIT-style license that
